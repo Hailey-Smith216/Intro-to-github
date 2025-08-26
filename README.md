@@ -1,2 +1,2 @@
 # Intro-to-github
-My first repository
+My first repository for PLTW Computer science
